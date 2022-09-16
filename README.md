@@ -1,7 +1,5 @@
 # Capstone-Project-Credit-Card-Fraud-Detection-Final-Submission
 
-# Capstone-Project-Credit-Card-Fraud-Detection-Mid-Submission
-
 With the rising number of fraud cases, the company’s major focus is to provide its customers with a delightful experience while ensuring that security is not compromised.
 
 - As a big data engineer, you need to architect and build a solution to cater to the following requirements:
